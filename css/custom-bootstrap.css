@@ -1,0 +1,279 @@
+body{
+    padding-top:0px;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+header{
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/desktop.jpg") 
+    no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;    
+
+
+}
+
+.jumbotron{
+	height:500px
+}
+
+.image-placeholder{
+    margin-bottom: 1rem;
+}
+
+.montserat-font{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.roboto-font{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.text-white{
+    color: white;
+}
+
+
+.jumbotron{
+    background: none;
+}
+
+.bg-dark{
+    background: none;
+}
+
+.sign-up{
+    border: 2px solid #fff;
+    border-radius: 2.5em;
+    
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    color: white;
+}
+
+.music-icon{
+    background:#FF4E50; border-radius:50%; z-index: 7; position:absolute; margin-top:40%;vertical-align: bottom; margin-left: -14%;
+    border: 6px solid #fff;
+}
+
+.paint-icon{
+    background:#18D4CA; width:40px;height:40px;border-radius:50%; z-index: 7; position:absolute; margin-top:40%;vertical-align: bottom; margin-left: -14%;
+    border: 6px solid #fff;
+}
+.camera-icon{
+    background:#FFA710; width:40px;height:40px;border-radius:50%; z-index: 7; position:absolute; margin-top:40%;vertical-align: bottom; margin-left: -14%;
+    border: 6px solid #fff;
+}
+.airplane-icon{
+    background: #667DF3; width:40px;height:40px;border-radius:50%; z-index: 7; position:absolute; margin-top:40%;vertical-align: bottom; margin-left: -14%;
+    border: 6px solid #fff;
+}
+
+.nav-link a {
+    color: white;
+}
+
+.center-align{
+    text-align: center
+}
+
+.card{
+   border: none;   
+}
+
+.col-lg-3 .card{
+    text-align: center
+}
+
+.col-lg-3 .card img{
+    text-align: center
+}
+
+.home-slogan{
+    margin: 2em
+}
+
+.home-slogan h5{
+    text-align: center
+}
+
+.btn-primary{
+    color: white;
+    border-radius: 2.5em;
+    background: #FF4E50;
+    border: 2px solid #ff4e50;
+        
+}
+
+
+.btn-secondary{
+    color: #FF4E50;
+    border: 2px solid #ff4e50;
+    border-radius: 2.5em;
+    background: white;
+}
+
+.activities_1{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url("../assets/block1Sports.jpg") no-repeat; background-position: center center;
+    background-size: 380px 300px;
+    height:310px;
+    width:360px;
+}
+
+.activities_1 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_2{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block2Wellness.jpg") no-repeat; background-position: center center ;
+    background-size: 380px 300px;
+    height:300px;
+    width:360px;
+    
+    
+}
+
+.activities_2 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_3{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block3Expeditions.jpg") no-repeat; background-position: center center ;
+    background-size: 380px 300px;
+    height:300px;
+    width:360px;
+}
+
+.activities_3 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_4{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block4Games.jpg") no-repeat; background-position: center center ;
+    background-size: 380px 300px;
+    height:300px;
+    width:360px;
+    
+}
+
+.activities_4 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_5{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block5Culture.jpg") no-repeat; background-position: center center ;
+    background-size: 780px 300px;
+    height: 300px;
+    width:740px;
+}
+
+.activities_5 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_6{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block6Beauty.jpg") no-repeat; background-position: center center ;
+    background-size: 780px 300px;
+    height: 300px;
+    width:740px;
+    
+}
+
+.activities_6 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.activities_7{
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4) ), url("../assets/block7Travelling.jpg") no-repeat; background-position: center center ;
+     background-size: 380px 300px;
+    height:310px;
+    width:360px;
+    
+}
+
+.activities_7 h6{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+.transparent {
+	zoom: 1;
+	filter: alpha(opacity=90);
+	opacity: 9.5;
+    background: black(0.5);
+    
+}
+
+.footer-top{
+    margin-top: 1.5rem
+}
+
+.footer-links{
+    list-style-type: none;
+    text-decoration:none;
+    margin-left: 0px;
+    padding: 0px;
+   
+}
+
+.footer-links li a{
+    list-style-type: none;
+    text-decoration:none;
+    color: #666666;
+   
+}
+
+.dark-gray{
+    color:#444444;
+}
+
+.light-gray{
+    color: #666666;
+}
